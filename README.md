@@ -1,2 +1,1 @@
-# wilmaJS
-A powerful framework for making Typescript and Javascript easier
+wilma nuts fit in ur mouth.
